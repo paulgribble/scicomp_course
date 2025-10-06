@@ -26,13 +26,15 @@ This course environment provides:
 
 ```
 .
-├── README.md                  # This file
+├── README.md                 # This file
 ├── STUDENT_SETUP.md          # Detailed setup instructions
 ├── .devcontainer/            # VS Code Dev Container configuration
 ├── start-jupyter.sh          # Mac/Linux helper script
 ├── start-jupyter.bat         # Windows helper script
 ├── 00_getting_started.ipynb  # Getting started notebook
-└── [your notebooks here]     # Your coursework goes here
+├── data/                     # Datasets we will use in the course
+├── examples/                 # Example code
+└── homework/                 # Weekly homework assignments
 ```
 
 ## 🛠️ Prerequisites
